@@ -1,0 +1,7 @@
+{
+  "name": "carcall",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
